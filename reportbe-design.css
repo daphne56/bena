@@ -68,9 +68,15 @@ p.entry{
 	padding-left: 50px;
 	margin-top: 30px;
 	background-color: #DFE6DF;
-
 }
 
+p.mainentry{
+	padding-left: 50px;
+	margin-top: 30px;
+	background-color: #DFE6DF;
+	font-size: 1.5em;
+	line-height: 2.5em;
+}
 
 
 p.highlight{
